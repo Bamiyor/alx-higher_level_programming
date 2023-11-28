@@ -5,3 +5,4 @@ for x in range(0, 10):
             continue
         else:
             print("{}{},".format(x, y), end=" ")
+
